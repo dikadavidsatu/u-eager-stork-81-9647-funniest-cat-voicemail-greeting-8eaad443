@@ -1,0 +1,1 @@
+{"description":"Prints a one-line cat voicemail greeting for make.fun's Funniest Cat Voicemail Greeting bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-eager-stork-81-9647-funniest-cat-voicemail-greeting-8eaad443","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
